@@ -7,7 +7,7 @@
 **A passionate first year computer science student from France**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=le8pold&color=007acc&style=for-the-badge)
-![Contributions](https://img.shields.io/badge/dynamic/json?color=007acc&label=Contributions&query=%24.data.user.contributionsCollection.startedAt&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fle8pold%3Fy%3Dlast&style=for-the-badge&logo=github&logoColor=white)
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/le8pold/le8pold?color=007acc&label=Commits&style=for-the-badge&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/Website-leopold.onl-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://leopold.onl)
 [![Email](https://img.shields.io/badge/Email-leopold@hylton.onl-007ACC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopold@hylton.onl)
