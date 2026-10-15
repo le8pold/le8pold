@@ -1,6 +1,9 @@
 **A passionate first year computer science student from France**
+**A passionate first year computer science student from France**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=le8pold&color=blue&style=flat-square)
+[![Website](https://img.shields.io/badge/Website-leopold.onl-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://leopold.onl)
+[![Email](https://img.shields.io/badge/Email-leopold@hylton.onl-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopold@hylton.onl)
 
 ---
 
@@ -19,7 +22,8 @@ I use fedora btw
 
 - Experimented with microcontrollers using Arduino and esp32's.
   
-- Working on a retro blog site using skeuomorphic design(for now its only a cd player):  
+- Working on a retro blog site using skeuomorphic design(for now its only a cd player):
+  
   [![Live Demo](https://img.shields.io/badge/Demo-le8pold.github.io%2Fcdplaeyr-007ACC?style=for-the-badge&logo=githubpages&logoColor=white)](https://le8pold.github.io/cdplaeyr)
 
 ---
@@ -48,6 +52,3 @@ I use fedora btw
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </p>
 
----
-
-[![Website](https://img.shields.io/badge/Website-leopold.onl-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://leopold.onl)
