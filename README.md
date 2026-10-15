@@ -19,7 +19,7 @@ I use fedora btw
 
 - Experimented with microcontrollers using Arduino and esp32's.
   
-- Working on a retro blog site using skeuomorphic design:  
+- Working on a retro blog site using skeuomorphic design(for now its only a cd player):  
   [![Live Demo](https://img.shields.io/badge/Demo-le8pold.github.io%2Fcdplaeyr-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://le8pold.github.io/cdplaeyr)
 
 ---
