@@ -50,7 +50,4 @@ I use fedora btw
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=le8pold&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le8pold&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![Website](https://img.shields.io/badge/Website-leopold.onl-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://leopold.onl)
