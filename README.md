@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" width="100%" style="border-radius: 8px;" alt="Banner" />
+</p>
+
+---
+
 **A passionate first year computer science student from France**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=le8pold&color=007acc&style=for-the-badge)
