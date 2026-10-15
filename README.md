@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=le8pold&color=007acc&style=for-the-badge)
 [![Website](https://img.shields.io/badge/Website-leopold.onl-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://leopold.onl)
-[![Email](https://img.shields.io/badge/Email-leopold@hylton.onl-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopold@hylton.onl)
+[![Email](https://img.shields.io/badge/Email-leopold@hylton.onl-007ACC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leopold@hylton.onl)
 
 ---
 
