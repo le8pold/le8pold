@@ -18,8 +18,9 @@ I use fedora btw
 - Created and hosted personal websites using HTML/CSS.
 
 - Experimented with microcontrollers using Arduino and esp32's.
-
-- Working on making a retro blog site using skeumorphic design (check out le8pold.github.io/cdplaeyr for the first iteration, not yet a complete blog)
+  
+- Working on a retro blog site using skeuomorphic design:  
+  [![Live Demo](https://img.shields.io/badge/Demo-le8pold.github.io%2Fcdplaeyr-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://le8pold.github.io/cdplaeyr)
 
 ---
 
