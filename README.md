@@ -47,3 +47,10 @@ I use fedora btw
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=le8pold&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le8pold&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
